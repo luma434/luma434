@@ -1,6 +1,6 @@
 ### Hi, I'm Ali 👋
 
-Fullstack developer working across Go and PHP backends, React/Next.js frontends, and the infrastructure in between. Currently building `audittrail`, an audit-logging service, and `api-change-detector`, a tool for tracking API changes.
+Fullstack developer working across Go and PHP backends, React/Next.js frontends, and the infrastructure in between — with regulated medical device software experience (IEC 62304, ISO 13485, ISO 14971, MDR). Currently building `audittrail`, an audit-logging service, and `api-change-detector`, a tool for tracking API changes.
 
 **Frontend**
 
@@ -37,6 +37,13 @@ Fullstack developer working across Go and PHP backends, React/Next.js frontends,
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Compliance & Regulatory (Medical Device Software)**
+
+![IEC 62304](https://img.shields.io/badge/-IEC_62304-004B87?style=flat-square)
+![ISO 13485](https://img.shields.io/badge/-ISO_13485-004B87?style=flat-square)
+![ISO 14971](https://img.shields.io/badge/-ISO_14971-004B87?style=flat-square)
+![MDR](https://img.shields.io/badge/-EU_MDR-004B87?style=flat-square)
 
 **Projects**
 
