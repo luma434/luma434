@@ -41,6 +41,12 @@ Fullstack developer working across Go and PHP backends, React/Next.js frontends,
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 **Compliance & Regulatory (Medical Device Software)**
 
 ![IEC 62304](https://img.shields.io/badge/-IEC_62304-004B87?style=flat-square)
