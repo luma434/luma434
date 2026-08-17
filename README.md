@@ -59,13 +59,6 @@ Fullstack developer working across Go and PHP backends, React/Next.js frontends,
 - 🔍 [audittrail](https://github.com/luma434/audittrail) — audit-logging service (Go, Next.js, PostgreSQL, Docker)
 - 🛰️ [api-change-detector](https://github.com/luma434/api-change-detector) — detects and reports API changes (Go)
 
-**GitHub Stats**
-
-<p>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=luma434&show_icons=true&theme=default&hide_border=true" alt="Ali's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luma434&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
 **Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aydogan-394b1366/)
