@@ -54,10 +54,6 @@ Fullstack developer working across Go and PHP backends, React/Next.js frontends,
 ![ISO 14971](https://img.shields.io/badge/-ISO_14971-004B87?style=flat-square)
 ![MDR](https://img.shields.io/badge/-EU_MDR-004B87?style=flat-square)
 
-**Projects**
-
-- 🔍 [audittrail](https://github.com/luma434/audittrail) — audit-logging service (Go, Next.js, PostgreSQL, Docker)
-- 🛰️ [api-change-detector](https://github.com/luma434/api-change-detector) — detects and reports API changes (Go)
 
 **Connect**
 
